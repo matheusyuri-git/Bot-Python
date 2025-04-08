@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: NFEnvio
+Version: 1.0
+Summary: Envio de NF para a Receita Contabilidade
+Description-Content-Type: text/markdown
+Requires-Dist: botcity-framework-core<1.0,>=0.4.0
+Requires-Dist: botcity-maestro-sdk<1.0,>=0.2.0
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
+
+# NFEnvio
+
+Envio de NF para a Receita Contabilidade
+
