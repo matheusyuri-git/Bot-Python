@@ -1,7 +1,7 @@
 # Automação de Lançamentos Contabéis no Portal do ECAC
 
 ## Descrição do Projeto: 
-Essa automaão foi desenvolvida usando Python e suas bibliotecas openpyxl e pandas, integrando com a ferramenta da BotCity que é um framework de automação web, o FrameWork realiza a navegação em uma página web trabalhando em conjunto com o python e suas bibliotecas para realizar lançamentos no site ECAC que pertence a receita federal. 
+Essa automação foi desenvolvida usando Python e suas bibliotecas openpyxl e pandas, integrando com a ferramenta da BotCity que é um framework de automação web, o FrameWork realiza a navegação em uma página web trabalhando em conjunto com o python e suas bibliotecas para realizar lançamentos no site ECAC que pertence a receita federal. 
 
 ## Objetivo do Projeto: 
 O objetivo do projeto é reduzir o tempo de lançamento contabéis no portal do ECAC, evitando assim um empenho de tempo muito grande por parte da equipe de contabilidade, para efetuar o lançamento que é realizado uma vez por mês, a equipe precisa de uma semana para realizar o lançamento, além do fato que outras demandas do setor ficam paradas pois todos os colaboradores da equipe precisam parar suas demandas para proceder com os lançamentos. 
