@@ -26,3 +26,7 @@ A solução foi a criação de um bot automatizado que lê os dados de uma plani
 * Preenchimento automático de formulários no sistema
 
 * Validação e confirmação de lançamentos realizados
+
+## Desenvolvido por
+
+Este projeto foi desenvolvido por Matheus Yuri (https://www.linkedin.com/in/matheus-yuri-vieira-silva/).
